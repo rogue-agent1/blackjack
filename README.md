@@ -1,13 +1,14 @@
-# Blackjack
+# blackjack
 
-Blackjack with basic strategy.
+Blackjack card game simulator
 
 ## Usage
 
 ```bash
-python3 blackjack.py
+python3 blackjack.py --help
 ```
 
-## License
+## Features
 
-MIT
+- Zero dependencies (Python 3.8+)
+- Single file implementation
